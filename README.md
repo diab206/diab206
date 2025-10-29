@@ -11,12 +11,16 @@
 
 ---
 
-## 👋 Hey there, I'm **Mohamed Diab (محمد دياب)**  
-**Flutter Developer | Cross-Platform Mobile Engineer | UI/UX Enthusiast**
+<h2 align="center">👋 Mohamed Diab (محمد دياب)</h2>
 
-📍 Dubai, UAE  
-📧 [diab51776@gmail.com](mailto:diab51776@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/mohamed-diab-mohameddiab) | [GitHub](https://github.com/diab206) | [Portfolio](https://framer.com/projects/PORTOFOLIO--0fh0Ig2iBpxfke80vsXL-dhNGo)
+<p align="center">
+  <b>Flutter Developer | Cross-Platform Mobile Engineer | UI/UX Enthusiast</b><br><br>
+  📍 Dubai, UAE · 
+  📧 <a href="mailto:diab51776@gmail.com">diab51776@gmail.com</a> · 
+  🔗 <a href="https://linkedin.com/in/mohamed-diab-mohameddiab">LinkedIn</a> · 
+  <a href="https://github.com/diab206">GitHub</a> · 
+  <a href="https://framer.com/projects/PORTOFOLIO--0fh0Ig2iBpxfke80vsXL-dhNGo">Portfolio</a>
+</p>
 
 ---
 
