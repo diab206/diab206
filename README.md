@@ -1,11 +1,11 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="40%"/><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=diab206&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiab206&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Mohamed_Diab-grey?style=flat&logo=telegram)](https://t.me/diab206)
+![Profile Views](https://komarev.com/ghpvc/?username=diab206&style=flat-square&color=blue&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/diab206&title=HITS&edge_flat=false)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/diab206)
 
 </div>
 
