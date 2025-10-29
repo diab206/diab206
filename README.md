@@ -4,14 +4,14 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diab206&style=flat-square&color=blue&label=PROFILE+VIEWS)
-[![Hits](https://hits.dwyl.com/diab206/diab206.svg)](https://hits.dwyl.com/diab206/diab206)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/diab206&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://github.com/diab206)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Chat%20with%20me-blue?style=flat&logo=telegram)](https://t.me/+201093506323)
 
 </div>
 
 ---
 
-<h2 align="center">👋 Mohamed Diab (محمد دياب)</h2>
+<h2 align="center">👋 Mohamed Diab </h2>
 
 <p align="center">
   <b>Flutter Developer | Cross-Platform Mobile Engineer | UI/UX Enthusiast</b><br><br>
