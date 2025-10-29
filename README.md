@@ -4,8 +4,8 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="40%"/><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diab206&style=flat-square&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/diab206&title=HITS&edge_flat=false)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/diab206)
+[![Hits](https://hits.dwyl.com/diab206/diab206.svg)](https://hits.dwyl.com/diab206/diab206)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Chat%20with%20me-blue?style=flat&logo=telegram)](https://t.me/+201093506323)
 
 </div>
 
